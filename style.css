@@ -1,0 +1,43 @@
+body {
+
+    background-color: darkturquoise;
+   font-family: 'Comic Neue', cursive; 
+}
+.header_div {
+
+    background-color: cornsilk;
+        color:brown;
+}
+.header_div p{
+
+color:blueviolet;
+letter-spacing: 2px;
+font-size: 12px;
+font-family: 'Roboto Condensed', sans-serif;
+font-weight: bold;
+}
+
+.main_div button{
+
+    font-family: 'Roboto Condensed', sans-serif;
+    margin-top: 3px;
+    width:130px;
+    letter-spacing: 3px;
+    font-weight: bolder;
+}
+.copyright_footer{
+
+    position:fixed;
+    color:red;
+    bottom: 0;
+    width:100%;
+    font-size: 18px;
+    background-color: beige;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px grey;
+}
+#A1{
+
+    image:hidden;
+}
